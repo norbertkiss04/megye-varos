@@ -1,0 +1,19 @@
+.element {
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    margin-bottom: 0.5rem;
+    background-color: #f8f9fa;
+    cursor: pointer;
+}
+
+.actions {
+    margin-left: auto;
+}
+
+.actions button {
+    transition: all 0.3s ease;
+}
+
+.content {
+    padding-right: 1rem;
+}
